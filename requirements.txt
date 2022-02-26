@@ -4,7 +4,7 @@ jupyter==1.0.0
 jupyterlab==2.1.4
 kaggle==1.5.6
 matplotlib==3.2.1
-mlflow==1.8.0
+mlflow==1.23.1
 numpy==1.18.5
 pandas==1.0.4
 pylint==2.5.2
