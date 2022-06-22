@@ -5,7 +5,7 @@ jupyterlab==2.1.4
 kaggle==1.5.6
 matplotlib==3.2.1
 mlflow==1.8.0
-numpy==1.18.5
+numpy==1.22.0
 pandas==1.0.4
 pylint==2.5.2
 pytorch-lightning==0.7.6
