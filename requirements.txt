@@ -1,5 +1,5 @@
 hydra-core==0.11.3
-joblib==0.15.1
+joblib==1.2.0
 jupyter==1.0.0
 jupyterlab==2.1.4
 kaggle==1.5.6
